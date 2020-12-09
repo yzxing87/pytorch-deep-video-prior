@@ -6,6 +6,16 @@ Official PyTorch implementation for NeurIPS 2020 paper: Blind Video Temporal Con
 | [project website](https://chenyanglei.github.io/DVP/index.html)
 
 
+## Introduction
+Our method is a general framework to improve the temporal consistency of video processed by image algorithms. 
+<!-- For example, our frame can take the results of single image colorization or single image dehazing algorithm results as input, and produce consistent video colorization or video dehazing results.  -->
+For example, combining single image colorization or single image dehazing algorithm with our framework, we can achieve the goal of video colorization or video dehazing. 
+
+
+<img src="example/example_in.gif" height="220px"/> <img src="example/example_out.gif" height="220px"/> 
+<img src="example/example2_in.gif" height="220px"/> <img src="example/example2_out.gif" height="220px"/> 
+
+
 ## Dependencey
 
 ### Environment
