@@ -16,7 +16,7 @@ For example, combining single image colorization or single image dehazing algori
 <img src="example/example2_in.gif" height="220px"/> <img src="example/example2_out.gif" height="220px"/> 
 
 
-## Dependencey
+## Dependency
 
 ### Environment
 This code is based on PyTorch. It has been tested on Ubuntu 18.04 LTS.
