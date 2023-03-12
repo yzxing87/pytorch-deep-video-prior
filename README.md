@@ -63,7 +63,18 @@ If you find this work useful for your research, please cite:
   year={2020}
 }                
 ```
-
+```
+@article{lei2022deep,
+  title={Deep video prior for video consistency and propagation},
+  author={Lei, Chenyang and Xing, Yazhou and Ouyang, Hao and Chen, Qifeng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={45},
+  number={1},
+  pages={356--371},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 ## Contact
 Feel free to contact me if there is any question. (Yazhou Xing,  yzxing87@gmail.com)
